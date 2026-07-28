@@ -22,7 +22,8 @@ int main()
    int n;
    cout<<"Enter a array size: "<<endl;
    cin >> n;
-   vector<int> nums= {n};
+   //vector<int> nums= {n};
+   vector<int> nums(n);
 
    cout<<"Enter "<< n << " elements"<<endl;
    for(int i=0;i<n;i++){
