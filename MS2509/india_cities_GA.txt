@@ -1,0 +1,23 @@
+# Indian Cities for TSP - Genetic Algorithm
+# Format: CityName  X_Coordinate  Y_Coordinate
+# Coordinates are approximate geographic positions (longitude, latitude scaled)
+Delhi           77.1025  28.7041
+Mumbai          72.8777  19.0760
+Bangalore       77.5946  12.9716
+Hyderabad       78.4867  17.3850
+Chennai         80.2707  13.0827
+Kolkata         88.3639  22.5726
+Pune            73.8567  18.5204
+Ahmedabad       72.5714  23.0225
+Jaipur          75.7873  26.9124
+Lucknow         80.9462  26.8467
+Bhopal          77.4126  23.2599
+Nagpur          79.0882  21.1458
+Chandigarh      76.7794  30.7333
+Patna           85.1376  25.6093
+Kochi           76.2673   9.9312
+Indore          75.8577  22.7196
+Visakhapatnam   83.2185  17.6868
+Surat           72.8311  21.1702
+Coimbatore      76.9558  11.0168
+Amritsar        74.8723  31.6340
